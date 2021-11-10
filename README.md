@@ -1,0 +1,2 @@
+# selfmania
+gym management system
